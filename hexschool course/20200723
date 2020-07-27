@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <!-- 第一章作業 -->
+    <body>
+        <h1>HTML、CSS教學</h1>
+        <p>在這堂課程上，你會了解如何使用HTML、CSS來設計一個網站，並發佈到網路上。</p>
+
+        <h2>這章節你認識的HTML標籤</h2>
+        <ol>
+            <li>h1~h6標題</li>
+            <li>p段落</li>
+            <li>a超連結</li>
+            <li>img圖片</li>
+            <li>ul、li項目清單</li>
+        </ol>
+        <!-- ol為數字，ul為點點 -->
+
+        <h2>撰寫文字超連結</h2>
+        <a href="#">文字超連結內容</a>
+
+        <h2>插入一張圖片</h2>
+        <img src="https://i2.wp.com/stupidnote.com/wp-content/uploads/2020/04/hexschool-logo_v2.png?w=1400&ssl=1">
+
+    </body>
+</html>
