@@ -1,0 +1,16 @@
+.first{
+    color: darkblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second{
+    color: darkgoldenrod;
+    font-style: 25px;
+    font-family: serif;
+}
+
+li{
+    display: inline;
+    /* 利用display: inline;可以把區塊元素變成行內元素 */
+}
