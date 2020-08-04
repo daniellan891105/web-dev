@@ -1,0 +1,33 @@
+h1{
+	color: rgb(233, 131, 6);
+	font-size: 40px;
+	text-align: center;
+}
+
+a{
+	color: red;
+}
+a:hover{
+	color: springgreen;
+}
+
+h2,h3,h4{
+	border-left: 5px solid red;
+	border-bottom: 5px solid red;
+}
+
+ul,ol{
+	line-height: 2;
+	text-align: left;
+}
+
+.false{
+	text-decoration: ;
+}
+
+img{
+	border: 5px dotted forestgreen;
+}
+img:hover{
+	border: 5px dashed goldenrod;
+}
