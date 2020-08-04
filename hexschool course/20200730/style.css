@@ -1,0 +1,21 @@
+h1{
+	color: slateblue;
+	font-size: 100px;
+	border: 10px solid red;
+	/* border可以設定邊框的寬度、樣式、顏色等等 */
+}
+
+p{
+	font-family: verdana;
+	font-size: 20px;
+	text-align: left;
+	/* text-align為水平對齊 ，加上left能使文字至左*/
+	text-indent: 40px;
+	/* 首行縮排為40px是因為一個字元為20px，所以兩個字就是20px*2=40px */
+	text-decoration: underline;
+}
+
+img{
+	border-top: 5px dotted blue;
+	border-left: 5px dashed blue;
+}
