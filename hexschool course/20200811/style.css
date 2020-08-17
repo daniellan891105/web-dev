@@ -1,0 +1,9 @@
+.box{
+    border: 10px solid red;
+    width: 300px;
+    height: 500px;
+    background: pink;
+    padding-right: 50px;
+    /* 利用padding去累積出內部的留白 */
+    margin-bottom: 30px;
+}
