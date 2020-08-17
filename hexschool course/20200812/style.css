@@ -1,0 +1,19 @@
+.wrap{
+    width: 900px;
+    margin: 0 auto;
+    /* 利用margin-left、margin-right可以使網頁置中對齊 */
+}
+.header{
+    width: 900px;
+    height: 200px;
+    background: orange;
+}
+.content{
+    width: 900px;
+    height: 400px;
+    background: black;
+}
+.footer{
+    height: 50px;
+    background: pink;
+}
