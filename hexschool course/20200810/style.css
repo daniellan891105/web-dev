@@ -1,0 +1,9 @@
+.box{
+    border: 10px solid black;
+    padding: 5px 70px 60px 80px;
+    /* padding可以一次打四個數值分別為上右下左 */
+}
+.box p{
+    margin: 0px 0px 80px 0px;
+}
+/* margin是調整border外的邊界；padding則是調整border內到內文之間的距離 */
