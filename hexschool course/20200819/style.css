@@ -1,0 +1,21 @@
+.box{
+    width: 1000px;
+    background: black;
+    height: 50px;
+    float: left;
+    /* 設定div物件浮動靠左（left），它會依照父元素的寬度改變
+    ( 寬度不夠寬無法並排時跳到下一排)。*/
+}
+.box2{
+    width: 500px;
+    background: pink;
+    height: 50px;
+    float: left;
+}
+.box3{
+    width: 200px;
+    background: purple;
+    height: 50px;
+    float: right;
+    margin-bottom: 100px;
+}
