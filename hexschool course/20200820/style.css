@@ -1,0 +1,26 @@
+.wrap{
+    width: 1050px;
+    margin: 0 auto;
+    background: black;
+}
+.header{
+    width: 1050px;
+    height: 120px;
+    background: saddlebrown;
+}
+.menu{
+    width: 150px;
+    background: slategrey;
+    height: 80px;
+    float: left;
+}
+.content{
+    width: 650px;
+    background: springgreen;
+    height: 80px;
+    float: right;
+}
+.footer{
+    height: 80px;
+    background: violet;
+}
