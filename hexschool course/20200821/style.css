@@ -1,0 +1,36 @@
+.wrap{
+    margin: 0 auto;
+    width: 1000px;
+    /* 如果寬度超過1200px時，會自動跳到下一行，
+    所以要注意任何加上去的數值有沒有超過 */
+}
+.header{
+    height: 50px;
+	background: darkred;
+	margin-bottom: 20px;
+}
+.main{
+    margin-bottom: 20px;
+}
+.menu{
+    width: 180px;
+    background: green;
+    color: ivory;
+    float: left;
+    margin-bottom: 30px;
+    padding: 10px 10px 15px 10px;
+}
+.content{
+    width: 770px;
+    height: 150px;
+    background: greenyellow;
+    color: black;
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+.footer{
+    height: 80px;
+    background: silver;
+}
